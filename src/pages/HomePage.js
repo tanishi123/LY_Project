@@ -8,8 +8,8 @@ const HomePage = () => {
       <Box className="hero">
         <Heading>Welcome to the Next-Gen Quiz App</Heading>
         <Text mt={4}>
-          This is your dashboard where you can upload study materials, take quizzes, and view your grades. 
-          Our app uses advanced NLP technology to create quizzes from your study materials, making learning more effective and interactive.
+          <h1>This is your dashboard where you can upload study materials, take quizzes, and view your grades. 
+          Our app uses advanced NLP technology to create quizzes from your study materials, making learning more effective and interactive.</h1>
         </Text>
       </Box>
       <Box p={5}>
