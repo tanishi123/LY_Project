@@ -9,7 +9,7 @@ function Navbar() {
 
   return (
     <nav className="navbar">
-      <div className="brand">Quiz Generator</div>
+      <div className="brand">BrainStorm AI</div>
       <div>
         <Link to="/">Home</Link>
         {token ? (
