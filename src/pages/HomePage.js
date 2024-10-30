@@ -14,7 +14,7 @@ const HomePage = () => {
         </Text>
       </Box>
       <Box p={5}>
-        <Heading><h1>Get Started</h1></Heading>
+        <h1>Get Started</h1>
         <Text mt={4}><h3><p>
           Begin by uploading your study materials and let our app generate quizzes for you. 
           Track your progress and manage your learning efficiently with our user-friendly interface.</p></h3>
